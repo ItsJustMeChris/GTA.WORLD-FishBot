@@ -1,0 +1,11 @@
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\bin\Debug\Auto Fish V2.exe.config
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\bin\Debug\Auto Fish V2.exe
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\bin\Debug\Auto Fish V2.pdb
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\obj\Debug\Auto Fish V2.csprojResolveAssemblyReference.cache
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\obj\Debug\Auto_Fish_V2.Form1.resources
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\obj\Debug\Auto_Fish_V2.Properties.Resources.resources
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\obj\Debug\Auto Fish V2.csproj.GenerateResource.Cache
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\obj\Debug\Auto Fish V2.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\obj\Debug\Auto Fish V2.exe
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\obj\Debug\Auto Fish V2.pdb
+C:\Users\Chris\source\repos\Auto Fish V2\Auto Fish V2\obj\Debug\Auto_Fish_V2.Form2.resources
